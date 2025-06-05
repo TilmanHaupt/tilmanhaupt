@@ -2,8 +2,6 @@
 
 I am Tilman Haupt. I'm developer with focus on web applications 
 
-#### 🔧 Technologies & Tools
-
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&cacheSeconds=10000)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&cacheSeconds=10000)](#)
 [![React](https://img.shields.io/badge/-React-black?logo=react&cacheSeconds=10000)](#)
@@ -11,7 +9,4 @@ I am Tilman Haupt. I'm developer with focus on web applications
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)
 
-#### 📜 Certifications
-
-Certified Kubernetes Administrator 
 
