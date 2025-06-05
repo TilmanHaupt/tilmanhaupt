@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I am Tilman Haupt. I'm developer with focus on web applications 
+I am Tilman Haupt. I'm a developer with focus on web applications 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&cacheSeconds=10000)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&cacheSeconds=10000)](#)
