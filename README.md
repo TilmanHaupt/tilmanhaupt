@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I am Tilman Haupt. I'm developer with focus on compelex webapplications 
+I am Tilman Haupt. I'm developer with focus on web applications 
 
 #### 🔧 Technologies & Tools
 
